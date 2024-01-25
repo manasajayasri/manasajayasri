@@ -8,6 +8,4 @@ Here are some ideas to get you started:-->
 🔭 I’m Manasa, currently a student pursuing B.tech in Computer Science looking to improve my skills in Mern Stack.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manasajayasri&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasajayasri&bg_color=transparent&layout=compact&theme=dark&hide_border=true)
-
 
