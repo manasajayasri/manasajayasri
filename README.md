@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:-->
 
-🔭 I’m Manasa, currently a student pursuing my masters in Computer Science at University of Wisconsin, Milwaukee. looking to improve my skills in Mern Stack dev.
+🔭 I’m Manasa, currently a student pursuing my masters in Computer Science at University of Wisconsin, Milwaukee. looking to improve my skills in Mern Stack dev. WIP⚠️
 
