@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate frontend developer from India, currently pursuing my Master's program in Computer Science at the University of Wisconsin. My focus is on mastering the MERN stack and exploring innovative technologies in app development and AI.
+I'm a passionate Full stack developer from India, currently pursuing my Master's program in Computer Science at the University of Wisconsin. My focus is on mastering the MERN stack and exploring innovative technologies in app development and AI.
 
 - 🔭 I’m currently working on **ReactJS, NextJS, App Development, AI**
 - 🌱 I’m currently learning **Immersive Technology and 3D interfaces, AR/VR Development.**
