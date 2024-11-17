@@ -85,3 +85,5 @@ I'm a passionate Full stack developer from India, currently pursuing my Master's
   </a>
  
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
