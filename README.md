@@ -7,8 +7,8 @@ I'm a passionate Full stack developer from India, my focus is on mastering the M
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/manasajayasri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="manasajayasri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manasa-jayasri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasa-jayasri" height="30" width="40" /></a>
+<a href="https://dev.to/manasajayasri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="manasajayasri" height="30" width="40" /></a>
 <a href="https://manasajayasri.github.io" target="blank"><img align="center" src="https://img.uxcel.com/lessons/traditional-color-meanings-1705437167347-2x.svg" alt="Manasa Portfolio" height="30" width="40" /></a>
 
 </p>
